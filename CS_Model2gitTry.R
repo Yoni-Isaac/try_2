@@ -12,7 +12,6 @@ library(leaflet)
 library(leaflet.extras)
 library(leafpm)
 library(htmlwidgets)
-#library(rgeos) # source rgeos_0.5-8.zip, Technical debt!!!!!
 library(sp)
 library(lwgeom)
 library(sf)
